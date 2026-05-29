@@ -173,3 +173,7 @@ SELECT * FROM Reviews;
 SELECT COUNT(*) FROM Directors;
 SELECT COUNT(*) FROM Directors;
 SELECT COUNT(*) FROM Films;
+
+SELECT * FROM awards;
+SELECT * FROM cinematic_movements;
+SELECT * FROM films;
